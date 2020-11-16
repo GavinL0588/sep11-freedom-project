@@ -1,7 +1,7 @@
 # Entry 1
 ##### 11/16/2020
 
-I started to try out 3D Rendering with babylon.js (https://www.babylonjs.com/)to get some ideas and starting code on my ideas at the moment.
+I started to try out 3D Rendering with babylon.js (https://www.babylonjs.com/) to get some ideas and starting code on my ideas at the moment.
 
 I might use some outside sources like LuxRender, Freestyle, and Pixar's Renderman to try rendering my final product to see if it works correctly. 
 
