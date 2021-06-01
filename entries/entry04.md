@@ -7,6 +7,7 @@ I tried to use these class as an example on how they would work
 Not only the code works for text but it can also work for pictures too!
 I learned that I can animate as long as the code for it is in the class.
 
+I plan on having multiple of these animations but with the scroll menu inputting the correct animation and will make it print from JS on to HTML. 
 
 
 [Previous](entry03.md) | [Next](entry05.md)
